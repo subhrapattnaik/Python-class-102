@@ -1,6 +1,10 @@
 # Python-class-102
 
 
+pip install opencv-python
+
+keep the student camera turned off while capturing pic(while running the code)
+
 https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
 
 
